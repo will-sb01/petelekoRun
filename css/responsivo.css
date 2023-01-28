@@ -1,0 +1,53 @@
+@media(max-width:1200px){
+    .nuvem{
+        position: absolute;
+        width: 1200px;
+        height: 480px;
+    }
+    .pipe{
+        position: absolute;
+        bottom: 0;
+        width: 100px;
+    }
+    .pete{
+        width: 90px;
+        position: absolute;
+        bottom: 0;
+    }
+}
+
+@media(max-width:500px){
+    .nuvem{
+        position: absolute;
+        width: 500px;
+        height: 210px;
+    }
+    .pipe{
+        position: absolute;
+        bottom: 0;
+        width: 60px;
+    }
+    .pete{
+        width: 50px;
+        position: absolute;
+        bottom: 0;
+    }
+}
+
+@media(max-width:376px){
+    .nuvem{
+        position: absolute;
+        width: 376px;
+        height: 100px;
+    }
+    .pipe{
+        position: absolute;
+        bottom: 0;
+        width: 50px;
+    }
+    .pete{
+        width: 40px;
+        position: absolute;
+        bottom: 0;
+    }
+}
